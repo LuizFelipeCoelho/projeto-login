@@ -8,6 +8,7 @@
 
     #login{
         width: 70vw;
+        height: 290px;
     }
     
     
@@ -33,6 +34,7 @@
 
     #login{
         width: 900px;
+        height: 340px;
     }
 
     #login h1{

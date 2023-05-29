@@ -51,3 +51,16 @@ main{
     display: block;
     padding: 10px;
 }
+
+#login h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#login p{
+    text-indent: 30px;
+}
+
+#login p{
+    font-size: 0.8em;
+}

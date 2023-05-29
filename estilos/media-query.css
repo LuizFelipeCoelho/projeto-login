@@ -9,6 +9,8 @@
     #login{
         width: 70vw;
     }
+    
+    
 
     #imagem{
         float: left;
@@ -31,6 +33,14 @@
 
     #login{
         width: 900px;
+    }
+
+    #login h1{
+        font-size: 2em;
+    }
+
+    #login p{
+        font-size: 1.2em;
     }
     
     #imagem{
